@@ -52,3 +52,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Login Credentials (for testing, as no database has been implemented for this project)
 1. "abc@gmail.com": "Test123#",
 2. "user2@gmail.com": "user2@123"
+
+## Presentation
+Click on this link to view the presentation: https://docs.google.com/presentation/d/1jB87B0FePxFKn8uj2bhIdiP6Hbnrp7BG/edit?usp=sharing&ouid=105109918471482854641&rtpof=true&sd=true
