@@ -1,9 +1,3 @@
-# resume_screening_system
-A resume screening and ranking system.
-Certainly! Here's an example of a **README.md** file for an AI-based Resume Screening and Ranking System:
-
----
-
 # AI-Based Resume Screening and Ranking System
 
 ## Overview
