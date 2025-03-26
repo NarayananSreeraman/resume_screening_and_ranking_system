@@ -2,7 +2,8 @@ streamlit
 pandas
 scikit-learn
 nltk
+spacy
 PyPDF2
 docx2txt
 spacy
-en_core_web_sm
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
